@@ -6,6 +6,6 @@ The goal of this project is to investigate whether persistent-homology features 
 
 Time series -> Sliding-window embedding  -> Point cloud -> Vietoris-Rips persistent homology -> topological features detection -> Classifier
 
-## CUrrent Stage 
+## Current Stage 
 
 Project enviroment and repository setup.
